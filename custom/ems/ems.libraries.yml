@@ -1,0 +1,4 @@
+ems-style:
+  css:
+    theme:
+      src/css/style.css: {}

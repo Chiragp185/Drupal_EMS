@@ -1,0 +1,17 @@
+ems.employeeHike:
+  path: "managehike"
+  defaults:
+    _title: "Employee Management System"
+    _form: 'Drupal\ems\Form\HikeForm'
+
+  requirements:
+    _permission: "access content"
+
+ems.employeeInput:
+  path: "createmp"
+  defaults:
+    _title: "Enter Employee Details"
+    _form: 'Drupal\ems\Form\CreateEmployee'
+
+  requirements:
+    _permission: "access content"

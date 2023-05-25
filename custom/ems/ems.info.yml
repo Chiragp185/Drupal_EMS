@@ -1,0 +1,4 @@
+name: "Employee Management System"
+description: "Employee Hike Management"
+type: module
+core_version_requirement: ^8 || ^9
